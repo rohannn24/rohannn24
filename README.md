@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Kumar.
 - 👀 I’m interested in Web Development ( in React.js ), java, DSA.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning express.js.
 - 📫 You can reach me on LinkedIn.
 
 <!---
